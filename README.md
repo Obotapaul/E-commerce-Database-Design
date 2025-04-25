@@ -134,6 +134,7 @@ Setup Instructions
    SOURCE sample_data.sql;
    ```
 
-![ERD E-Commerce  (1)](https://github.com/user-attachments/assets/c68d7779-f7e2-4093-9e93-39768c48f875)
+![ERD E-Commerce ](https://github.com/user-attachments/assets/79253983-fe8d-455f-94a8-d7e0eab58266)
+
 
 
